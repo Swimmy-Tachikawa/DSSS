@@ -1,2 +1,2 @@
 # DSSS
-DSSSは「DocumentsSharingSystemInSwimmy」no
+DSSSは「DocumentsSharingSystemInSwimmy」の略称です。このライブラリを用いることで、ローカル上に存在する対象ディレクトリのデータを任意の生徒フォルダへアップロードできます。
