@@ -12,5 +12,5 @@ authors = [
   { name = "KutoKashiwagi" }
 ]
 dependencies = [
-  "gdrivemgr@git+https://github.com/Swimmy-Tachikawa/gdrivemgr.git@v1.2.0"
+  "gdrivemgr@git+https://github.com/Swimmy-Tachikawa/gdrivemgr.git@v1.2.2"
 ]
