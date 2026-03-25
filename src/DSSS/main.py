@@ -28,8 +28,8 @@ TIMES = tuple([
 
 
 def main(
-        client_secrets="client_secrets.json",
-        token_file="token.json"
+        client_secrets="./client_secrets.json",
+        token_file="./token.json"
 ):
 
     auth = AuthInfo(
