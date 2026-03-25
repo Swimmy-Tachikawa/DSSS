@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "DSSS"
+version = "0.0.0"
+description = ""
+requires-python = ">=3.9"
+readme = "README.md"
+authors = [
+  { name = "KutoKashiwagi" }
+]
+dependencies = [
+  "gdrivemgr@git+https://github.com/Swimmy-Tachikawa/gdrivemgr.git"
+]
