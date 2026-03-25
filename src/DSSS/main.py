@@ -4,7 +4,7 @@ from __future__ import annotations
 from datetime import datetime
 from gdrivemgr import AuthInfo
 
-from .process_test import StudentTimedUploader
+from .process import StudentTimedUploader
 
 
 def generate_times(time: tuple[int, int]) -> tuple[datetime, datetime]:
@@ -42,7 +42,7 @@ def main(
 
     uploader = StudentTimedUploader(
         auth=auth,
-        root_folder_id="1FOdJBovjuaXJr1IDmRAJdR5ULQlOQUNs",
+        root_folder_id="13CVNGLoCMQGTJLw1vutb84Wnfdjsv1Gp",
     )
 
     done = False
