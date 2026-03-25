@@ -1,0 +1,2 @@
+# DSSS
+DSSSは「DocumentsSharingSystemInSwimmy」の略であり、Local上のファイルをGoogleDrive上の対象ディレクトリへアップロードするシステムである。
